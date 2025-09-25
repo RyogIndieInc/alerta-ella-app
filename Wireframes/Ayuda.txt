@@ -1,0 +1,25 @@
+Pantalla de Ayuda — Alerta Ella
+
+Propósito: Brindar recursos legales, emocionales y comunitarios. Ser un refugio informativo en momentos de vulnerabilidad.
+
+Estructura visual:
+
+┌────────────────────────────────────────────┐
+│   📞 Números de emergencia por país        │
+│   - Policía, línea de ayuda, ONGs          │
+│                                            │
+│   📚 Guía emocional                         │
+│   - “Qué hacer si estás en peligro”        │
+│   - Consejos de autocuidado                │
+│                                            │
+│   🌐 Enlaces útiles                        │
+│   - Chat de ayuda, mapas de comisarías     │
+│                                            │
+│   🧘 Frase simbólica inferior:             │
+│   “Ella merece apoyo, no silencio.”        │
+└────────────────────────────────────────────┘
+
+Emociones transmitidas:
+- Contención
+- Orientación
+- Empatía

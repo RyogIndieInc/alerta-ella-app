@@ -1,0 +1,27 @@
+Pantalla de Historial — Alerta Ella
+
+Propósito: Mostrar las alertas enviadas, con fecha, ubicación y estado. Acceso restringido para proteger la privacidad.
+
+Estructura visual:
+
+┌────────────────────────────────────────────┐
+│   🔐 Acceso con PIN                        │
+│   - Campo de ingreso seguro                │
+│                                            │
+│   📅 Lista de alertas                      │
+│   - Fecha y hora                           │
+│   - Ubicación enviada                      │
+│   - Estado: “Enviada”, “Fallida”, “Simulada”│
+│                                            │
+│   🔍 Detalle de cada alerta                │
+│   - Contactos que la recibieron            │
+│   - Mensaje enviado                        │
+│                                            │
+│   🧘 Frase simbólica inferior:             │
+│   “Ella recuerda para protegerse.”         │
+└────────────────────────────────────────────┘
+
+Emociones transmitidas:
+- Privacidad
+- Memoria
+- Seguimiento

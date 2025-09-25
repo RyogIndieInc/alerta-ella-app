@@ -1,0 +1,28 @@
+Pantalla de Alerta — Alerta Ella
+
+Propósito: Activar la alerta de forma rápida, silenciosa y segura. Confirmar visualmente que la acción fue ejecutada sin generar ruido ni ansiedad.
+
+Estructura visual:
+
+┌────────────────────────────────────────────┐
+│                                            │
+│   🛡️ Mensaje de confirmación:              │
+│   “Alerta enviada con éxito.”              │
+│                                            │
+│   🔄 Animación visual:                     │
+│   Círculo coral que se llena lentamente    │
+│                                            │
+│   📍 Ubicación enviada:                    │
+│   “Tu ubicación ha sido compartida”        │
+│                                            │
+│   🔕 Modo silencioso activo:               │
+│   Ícono discreto de silencio               │
+│                                            │
+│   🧘 Frase simbólica inferior:             │
+│   “Ella está protegida.”                   │
+└────────────────────────────────────────────┘
+
+Emociones transmitidas:
+- Seguridad inmediata
+- Confirmación sin ruido
+- Protección silenciosa

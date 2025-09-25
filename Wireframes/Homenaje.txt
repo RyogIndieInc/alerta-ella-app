@@ -1,0 +1,29 @@
+Pantalla de Homenaje — Alerta Ella
+
+Propósito: Honrar a una mujer real en cada versión de la app. Convertir la memoria en legado.
+
+Estructura visual:
+
+┌────────────────────────────────────────────┐
+│   🖼️ Imagen simbólica                      │
+│   - Silueta, retrato o ilustración         │
+│                                            │
+│   📝 Historia breve                        │
+│   - Nombre (opcional)                      │
+│   - Contexto de homenaje                   │
+│                                            │
+│   💬 Frase inspiradora                     │
+│   - Ejemplo: “Su voz vive en esta app.”    │
+│                                            │
+│   🧘 Frase simbólica inferior:             │
+│   “Ella merece ser recordada.”             │
+└────────────────────────────────────────────┘
+
+Emociones transmitidas:
+- Respeto
+- Memoria
+- Justicia emocional
+
+Este proyecto está dedicado a todas las mujeres que han sentido miedo, que han sobrevivido, que han pedido ayuda y no fueron escuchadas. A las que luchan cada día por sentirse seguras. A las que ya no están, pero dejaron una huella.
+
+Cada versión de Alerta Ella incluirá un homenaje simbólico a una historia real. Este archivo será el espacio donde esas historias se documentan con respeto, sin morbo, sin exposición innecesaria. Solo con amor, memoria y justicia emocional.

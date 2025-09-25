@@ -1,0 +1,30 @@
+Pantalla de Inicio — Alerta Ella
+
+Propósito: Ser el punto de entrada emocional y funcional. Transmitir calma, urgencia silenciosa y protección inmediata.
+
+Estructura visual:
+
+┌────────────────────────────────────────────┐
+│                                            │
+│   🌸 Lema en la parte superior:            │
+│   “Cuidemos a nuestras madres, hermanas    │
+│    e hijas. Cuidemos a todas nuestras      │
+│    mujeres.”                               │
+│                                            │
+│   🛡️ Botón central grande:                 │
+│   [🔴 ENVIAR ALERTA]                        │
+│   - Color coral (#FF6F61)                  │
+│   - Ícono de escudo o corazón              │
+│   - Texto claro, sin ambigüedad            │
+│                                            │
+│   ⚙️ Icono discreto en esquina inferior    │
+│   derecha: [⚙️] Configuración              │
+│                                            │
+│   🎗️ Pie de pantalla (opcional):          │
+│   “Ella no está sola.” (frase simbólica)   │
+└────────────────────────────────────────────┘
+
+Emociones transmitidas:
+- Seguridad inmediata
+- Empatía silenciosa
+- Acción sin ruido

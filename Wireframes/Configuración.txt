@@ -1,0 +1,30 @@
+Pantalla de Configuración — Alerta Ella
+
+Propósito: Personalizar los contactos de emergencia, el mensaje de alerta y activar el modo silencioso. Esta pantalla da control emocional y técnico a la usuaria.
+
+Estructura visual:
+
+┌────────────────────────────────────────────┐
+│   👥 Lista de contactos de emergencia      │
+│   - Añadir, editar, eliminar               │
+│   - Máximo: 5 contactos                    │
+│                                            │
+│   ✉️ Mensaje personalizado                 │
+│   - Campo editable                         │
+│   - Texto por defecto: “Estoy en peligro”  │
+│                                            │
+│   🔕 Modo silencioso                       │
+│   - Toggle ON/OFF                          │
+│   - Descripción: “Enviar alerta sin sonido”│
+│                                            │
+│   🧪 Prueba de alerta                      │
+│   - Botón: “Simular alerta”                │
+│                                            │
+│   🧘 Frase simbólica inferior:             │
+│   “Ella decide cómo protegerse.”           │
+└────────────────────────────────────────────┘
+
+Emociones transmitidas:
+- Confianza
+- Control
+- Personalización
